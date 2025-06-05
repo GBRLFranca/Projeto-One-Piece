@@ -58,6 +58,7 @@
 }
 
 @media (max-width: 425px) {
+  
     main .personagem,.selecionado .imagem {
         object-position: 70% 30%; 
     }
@@ -78,6 +79,12 @@
 
    .conteudo {
         top: -13%;
+        padding-top: 120px;
+        padding-bottom: 0;
+        min-height: auto;
+        position: absolute;
+        bottom: 22%;
+    
     }
 
     .conteudo .nome-personagem {
@@ -85,7 +92,7 @@
     }
     
     .botoes {
-        padding-bottom: 50px;
+        padding-bottom: 70px;
         top: 10;
     }
 
