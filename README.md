@@ -1,2 +1,3 @@
 # Projeto OP
-Projeto utilizando JavaScript, HTML e CSS, que apresenta alguns personagens de One Piece, minha história preferida
+***
+Projeto utilizando __JavaScript, HTML e CSS__, que apresenta alguns personagens de One Piece, __minha história preferida__.
